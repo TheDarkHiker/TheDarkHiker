@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDarkHiker
+- 👋 Hi, I’m TheDarkHiker
 - 👀 I’m interested in DL and overall sience 
 - 🌱 I’m currently learning Phyton
 - 💞️ I seek advice how to learn in the area of DL 
